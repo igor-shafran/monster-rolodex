@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/igor-shafran/monster-rolodex/static/css/main.9eefaa22.chunk.css",
+    "main.js": "/igor-shafran/monster-rolodex/static/js/main.354e6f98.chunk.js",
+    "main.js.map": "/igor-shafran/monster-rolodex/static/js/main.354e6f98.chunk.js.map",
+    "runtime-main.js": "/igor-shafran/monster-rolodex/static/js/runtime-main.da537e68.js",
+    "runtime-main.js.map": "/igor-shafran/monster-rolodex/static/js/runtime-main.da537e68.js.map",
+    "static/js/2.c10ccd50.chunk.js": "/igor-shafran/monster-rolodex/static/js/2.c10ccd50.chunk.js",
+    "static/js/2.c10ccd50.chunk.js.map": "/igor-shafran/monster-rolodex/static/js/2.c10ccd50.chunk.js.map",
+    "index.html": "/igor-shafran/monster-rolodex/index.html",
+    "precache-manifest.bfcd78797fdb3c8b86d409819a05db2c.js": "/igor-shafran/monster-rolodex/precache-manifest.bfcd78797fdb3c8b86d409819a05db2c.js",
+    "service-worker.js": "/igor-shafran/monster-rolodex/service-worker.js",
+    "static/css/main.9eefaa22.chunk.css.map": "/igor-shafran/monster-rolodex/static/css/main.9eefaa22.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da537e68.js",
+    "static/js/2.c10ccd50.chunk.js",
+    "static/css/main.9eefaa22.chunk.css",
+    "static/js/main.354e6f98.chunk.js"
+  ]
+}
